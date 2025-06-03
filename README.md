@@ -39,6 +39,25 @@ This project was for one of my classes in University. It's a complete relational
 
 ---
 
+## 🖼️ Screenshots
+
+### 📌 Relationships View
+![Relationships](./screenshots/relationships.png)
+
+### 📌 Navigation Form
+![Navigation](./screenshots/navigation_form.png)
+
+### 📌 Pokémon Entry Form
+![Pokemon Form](./screenshots/pokemon_form.png)
+
+### 📌 Query Output
+![Query Result](./screenshots/query_result.png)
+
+### 📌 Pokémon Report
+![Report](./screenshots/pokemon_report.png)
+
+---
+
 ## 🎯 Features & Learning Outcomes
 
 - ✅ **Relational database design** (normalization, foreign keys, composite keys).
