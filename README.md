@@ -60,7 +60,7 @@ This project was for one of my classes in University. It's a complete relational
 
 ## 📎 Download
 
-Click [here to download the .accdb file]([(https://drive.google.com/file/d/18f4OD4xcqyF_bAXPOpW5Bq5mxUCh1AEj/view?usp=sharing))  
+https://drive.google.com/file/d/18f4OD4xcqyF_bAXPOpW5Bq5mxUCh1AEj/view?usp=sharing 
 
 
 ---
