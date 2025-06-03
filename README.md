@@ -42,19 +42,19 @@ This project was for one of my classes in University. It's a complete relational
 ## 🖼️ Screenshots
 
 ### 📌 Relationships View
-![Relationships](./screenshots/relationships.png)
+![Relationships](Relationships.png)
 
 ### 📌 Navigation Form
-![Navigation](./screenshots/navigation_form.png)
+![Navigation](Navigation_Menu.PNG)
 
 ### 📌 Pokémon Entry Form
-![Pokemon Form](./screenshots/pokemon_form.png)
+![Pokemon Form](Entry_Form.PNG)
 
 ### 📌 Query Output
-![Query Result](./screenshots/query_result.png)
+![Query Result](Query1_Result.PNG)
 
 ### 📌 Pokémon Report
-![Report](./screenshots/pokemon_report.png)
+![Report](Report.png)
 
 ---
 
